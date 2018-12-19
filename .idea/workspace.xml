@@ -30,7 +30,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/main.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="183">
+            <state relative-caret-position="202">
               <caret line="106" column="12" selection-start-line="106" selection-start-column="12" selection-end-line="106" selection-end-column="12" />
             </state>
           </provider>
@@ -46,11 +46,12 @@
     </option>
   </component>
   <component name="OCFindUsagesOptions" text="true" ivars="false" properties="true" derivedClasses="false" />
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds">
     <option name="x" value="2872" />
     <option name="width" value="977" />
     <option name="height" value="1038" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -95,15 +96,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1545169884947</updated>
-      <workItem from="1545169886437" duration="7486000" />
+      <workItem from="1545169886437" duration="7889000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7486000" />
+    <option name="totallyTimeSpent" value="7889000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="2682" y="0" width="781" height="830" extended-state="1" />
+    <frame x="2682" y="0" width="781" height="830" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
@@ -117,7 +118,7 @@
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32808024" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32808024" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39971346" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -137,7 +138,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/main.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="183">
+        <state relative-caret-position="202">
           <caret line="106" column="12" selection-start-line="106" selection-start-column="12" selection-end-line="106" selection-end-column="12" />
         </state>
       </provider>
